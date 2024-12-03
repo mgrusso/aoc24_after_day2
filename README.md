@@ -1,6 +1,6 @@
 # MyApp
 
-**TODO: Add description**
+Advent of code 2024 starting from day3 (Before i didn't use the AoC mix / elixir boilerplate)
 
 ## Installation
 
